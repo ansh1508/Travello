@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+#root {
+  font-family: "Montserrat", sans-serif;
+}
+
+
+/* .bg-hero-img {
+  background-image: url('./assets/bg-img1.jpg');
+   
+  background-size: cover;
+  background-position: center;
+  position: relative;
+} */
+
+/* Custom CSS for hiding scrollbar */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.scrollbar-hide {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
+
+
